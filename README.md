@@ -4,8 +4,7 @@ Sentiment Analysis is the process of determining whether a piece of writing is p
 
 ![](images/sentiment-fig-1-689.jpg)
 
-in today's communications and news consumption, the headlines of various articles play an even more important role than before. Now, we use sentiment analysis on these headlines on a particular company or companies to determine the effects of the headlines to the stock market.
- In this project i used the stock news headline dataset to calculate the sentiment against binary class.
+In today's communications and news consumption, the headlines of various articles play an even more important role than before. Now, we use sentiment analysis on these headlines on a particular company or companies to determine the effects of the headlines to the stock market. In this project i used the stock news headline dataset to calculate the sentiment against binary class.
 
 ## Dataset
 (https://www.kaggle.com/geminikeggler/stock-sentiment-analysis)
