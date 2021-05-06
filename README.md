@@ -20,7 +20,7 @@ In today's communications and news consumption, the headlines of various article
 - TFIDF
 - Word2Vec
 
-## Models 
+## Models used  
 - Random Forest 
 - LSTM
 - Ensemble Models
